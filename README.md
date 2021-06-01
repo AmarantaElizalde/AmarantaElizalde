@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmarantaElizalde
-- 👀 I’m interested in learn code, care plants and politics
+- 👀 I’m interested in learning code, care plants and politics
 - 🌱 I’m currently learning css 
 - 💞️ I’m looking to collaborate on any UX and UI projects
 - 📫 How to reach me amaranta@metroycincuenta.cl
